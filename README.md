@@ -1,12 +1,11 @@
 
 ## client folder
-
-The client folder contains a view program
-which should be started from the command
+The client folder contains a vue program
+which should be run from the following command
+I didn't work much on the appearance, maybe I'll get to that later
 ```
 npm run dev
 ```
-I didn't work much on its appearance, maybe I'll get to that later
 
 
 ## server folder
